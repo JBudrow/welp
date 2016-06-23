@@ -51,3 +51,7 @@ end
   gem 'pg', group: :production
   # Upload files in your Ruby applications, map them to a range of ORMS, store them on different backends
   gem 'carrierwave'
+  # The Ruby cloud services library
+  gem 'fog'
+  # Simple, Heroku-friendly Rails app configuration using ENV and a single YAML file
+  gem 'figaro'
