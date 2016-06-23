@@ -55,3 +55,5 @@ end
   gem 'fog'
   # Simple, Heroku-friendly Rails app configuration using ENV and a single YAML file
   gem 'figaro'
+  # A Ruby wrapper for ImageMagick or GraphicsMagick command line
+  gem 'mini_magick'
