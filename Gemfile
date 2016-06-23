@@ -57,3 +57,5 @@ end
   gem 'figaro'
   # A Ruby wrapper for ImageMagick or GraphicsMagick command line
   gem 'mini_magick'
+  # Flexible authentication solution for Rails with Warden
+  gem 'devise'
