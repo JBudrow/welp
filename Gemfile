@@ -49,3 +49,5 @@ end
   gem 'rails_12factor', group: :production
   # Ruby interface to the PostgreSQL RDBMS
   gem 'pg', group: :production
+  # Upload files in your Ruby applications, map them to a range of ORMS, store them on different backends
+  gem 'carrierwave'
