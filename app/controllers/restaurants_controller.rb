@@ -84,5 +84,4 @@ class RestaurantsController < ApplicationController
     def check_user
       redirect_to root_url, alert: "Sorry, only admins can do that!"
     end
-  end
 end
