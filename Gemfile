@@ -59,3 +59,5 @@ end
   gem 'mini_magick'
   # Flexible authentication solution for Rails with Warden
   gem 'devise'
+  # Intelligent serach made easy for Rails
+  gem 'searchkick'
